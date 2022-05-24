@@ -1,0 +1,134 @@
+Projeto Ageis com Scrum
+
+Desafios do desenvolvimento de Software
+
+Objetivos de negocios > Requisitos > Software para atingir
+os objetivos de negocios
+
+Requisitos
+ - Concepcção
+ - Análise e Design
+ - Desenvolvimento
+ - Testes
+ - Implantação
+__________
+*Scrum é um dos frameworks de gerenciamento de projetos ágeis
+__________
+Pilares do Scrum
+
+- Transparência 
+- Adaptação
+- Inspeção
+
+ * Conversar mais e escrever menos;
+ * Demonstrar o software constantemente aos usuários e
+   obter feedbacks constantes;
+ * Requisitos mudam ao longo do tempo;
+ * Aprender Progressivamente com o uso do software
+
+Razões para adotar o scrum:
+
+   * Desenvolvido e entregue em partes menores (2 a 4 
+   semanas, com constante feedbacks dos usuários
+   * Melhor gerenciamento de riscos (redução de incertezas);
+   * Comprometimento, motivação e transparência da equipe
+   * Maior valor para o negocio
+   * Usuarios envolvidos durante todo o ciclo
+   * Aplicação das Lições aprendidas.
+   
+Características do time Scrum:
+
+   * Equipes capazes de se auto-organizarem;
+   * As tarefas são do time e todos são responsáveis
+   * Forte comprometimento com os resultado.
+
+Papéis e Responsabilidades
+
+  - Product Owner (PO)
+  - Scrum Master (SM)
+  - Dev
+
+PO, Product Owner
+	* Representante da área de Negócios;
+	* PO não é um comitê;
+	* Define as funcionalidades do Software (Product Backlog)
+	* Prioriza as funcionalidades de acordo com o valor do negocio
+	* Garante que o time de desenvolvimento entenda os 
+	itens do backlog no nível necessário
+	
+SM, Scrum Master
+	* Garantir o uso correto do Scrum;
+	* Scrum Master não é Gerente de Projeto;
+	* Age como facilitador;
+	* Auxilia o Product Owner no planejamento e estimativas
+	do backlog;
+	* Auxilia a aequipe a remover impedimentos;
+	* Treina o time em autogerenciamento e interdisciplinaridade.
+
+Dev, Time de Desenvolvimento
+	* Possui habilidades suficientes para desenvolver, testar, criar
+	e desenhar, ou seja, tudo que for necessário para entregar
+	o software funcionando
+
+Cerimônias do Scrum
+	* Sprint = Corrida, arrancada
+	Duração de 30 dias
+	
+Composição de uma Sprint:
+	- Planejamento da Sprint
+	- Reuniões Diárias (Daily Meeting)
+	- Revisão da Sprinto (Review)
+	- Retrospectiva da Sprint 
+
+Quem participa?
+	- PO (O que fazer?)
+	- SM 
+	- Dev (Como fazer?)
+
+Planejamento da Sprint
+	- Planning Poker
+	
+__________
+
+Fundamentos de um projeto ágil
+* Papéis de Responsabilidades
+
+Product Owner - PO
+- Representa o profissional que tem a visão do que será desen
+volvido, as necessidades a serem atendidas, o público
+que vai utilizar os serviços e os objetos a serem alcançados.
+
+	*Release Planning
+	Liberação ou Lançamento de software (em inglês release)
+	é o lançamento de nova versão oficial de produto de
+	Software. Cada vez que um produto de software é criado
+	ou modificado, o fabricante e seus desenvolvedores decidem
+	sobre como distribuir ou o novo produto ou a modiificação 
+	às pessas que o utilizam.
+
+Existem 2 tipos de Release Planning:
+
+	* Release Planning de Múltiplas Squads
+	* Release Planning de Projeto
+
+Product Backlog
+	* Épicos = Incremento sem muito detalhamento, ajuda a te
+	direcionar dos caminhos que deve seguir.
+	* Estória = Detalhamento dos épicos, um épico normalmente
+	se divide em várias estórias, onde ficam descritos o que
+	deve acontecer e suas regras de negócio.
+
+Riscos Positivos
+	*Positivos = Muito ignorado nos projetos, porém um
+	dos fatores de maiores ganhos no desenvolvimento de
+	sistemas.
+	*Negativos = Itens que podem afettar o prazo, custo ou
+	escopo de um projeto de maneira que pode acabar invia
+	bilizando-o.
+	
+A transformação Digital
+	* É um processo no qual as empresas fazem uso da tecnologia
+	para melhorar o desempenho, aumentar o alcance e garantir
+	resultados melhores.
+	É uma mudança estrutural nas organizações dando um papel 
+	essencial para a tecnologia.

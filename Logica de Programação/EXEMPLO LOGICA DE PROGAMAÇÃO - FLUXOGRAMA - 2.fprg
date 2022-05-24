@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="jrmil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-05-15 10:40:18 "/>
+        <attribute name="created" value="anJtaWw7REVTS1RPUC1QVDI0RUYxOzIwMjItMDUtMTU7IjA5OjEwOjE0ICI7Mjc2Ng=="/>
+        <attribute name="edited" value="anJtaWw7REVTS1RPUC1QVDI0RUYxOzIwMjItMDUtMTU7IjEwOjQwOjE4ICI7MTsyODcz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <declare name="nome" type="String" array="False" size=""/>
+            <output expression="&quot;SEU NOME, TROXA&quot;" newline="True"/>
+            <input variable="NOME"/>
+            <output expression="&quot;DIGITE SUAS NOTAS, OTARIO&quot;" newline="True"/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="&quot;SEU NOME &#201;: &quot; &amp; nome &amp; &quot; SUA M&#201;DIA &#201;: &quot; &amp; media" newline="True"/>
+            <if expression="media&gt;=7">
+                <then>
+                    <output expression="&quot;GOSTOOOOOSSSOOOO&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;BROXXXXXAAAAAAAAAA&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

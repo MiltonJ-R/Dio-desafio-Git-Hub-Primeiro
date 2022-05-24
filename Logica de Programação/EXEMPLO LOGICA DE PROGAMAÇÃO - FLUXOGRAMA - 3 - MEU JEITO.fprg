@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="jrmil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-05-15 11:01:18 "/>
+        <attribute name="created" value="anJtaWw7REVTS1RPUC1QVDI0RUYxOzIwMjItMDUtMTU7IjEwOjQwOjIyICI7Mjc2MA=="/>
+        <attribute name="edited" value="anJtaWw7REVTS1RPUC1QVDI0RUYxOzIwMjItMDUtMTU7IjExOjAxOjE4ICI7MTsyODcx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="NUMERO, LIMITE, MULTIPLICAR" type="Integer" array="False" size=""/>
+            <assign variable="NUMERO" expression="9"/>
+            <assign variable="LIMITE" expression="81"/>
+            <assign variable="MULTIPLICAR" expression="0"/>
+            <while expression="NUMERO&lt;=LIMITE">
+                <assign variable="NUMERO" expression="9*(MULTIPLICAR)"/>
+                <output expression="&quot;O NUMERO ATUAL &#201;: &quot; &amp; NUMERO" newline="True"/>
+                <assign variable="MULTIPLICAR" expression="MULTIPLICAR+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

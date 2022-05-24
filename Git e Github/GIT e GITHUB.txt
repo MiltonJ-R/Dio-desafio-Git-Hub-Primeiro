@@ -1,0 +1,59 @@
+- MUDAR PASTAS
+- LISTAR AS PASTAS
+- CRIAR PASTAS/ARQUIVOS
+- DELETAR PASTAS/ARQUIVOS
+
+WINDOWS USAM COMANDOS DIFERENTES DO SISTEMA DA APPLE
+E LINUX
+
+
+//*aula de git//
+WINDOWS X LINUX
+  DIR	   LS
+  CLS	   CLEAR
+  (cd ..) volta o diretorio
+mkdir workspace  - Criar uma pasta
+echo hello > hello.txt - Cria um arquivo txt
+del workspace - deleta arquivos da pasta
+rmdir workspace /S /Q - deleta pasta /S /Q
+
+"Topicos fundamentais para entender o funcionamento do GIT"
+
+- SHA: A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro),
+é um conjunto de funções hash criptográficas projetadas
+pela NSA (Agência de Segurança Nacional dos EUA).
+A encriptação gera conjunto de caracters identificador de 40 digitos
+Comando : openssl sha1 Novo Documento de Texto.txt
+
+BLOBS, TREES,, COMMITS
+
+BLOBS: Ele contém os metadados do objeto
+Comandos: Echo 'conteudo' | git hash-object --stdin
+Alternativo: echo -e 'blob 9\0conteudo' | openssl sha1
+echo -e 'blob 9\0conteudo' | openssl sha1
+
+TREES: Ela armazena os BLOBS, ela é responsável por montar toda a estrutura 
+onde estão localizados os arquivos
+
+COMMITS: O mais importante, é o objeto que junta tudo. 
+Ele aponta para a arvore, aponta para o commit feito
+antes dele. 
+
+____
+COMANDOS
+PWD- Caminho completo é mostrado
+ls = Mostra todos os diretorios dentro da pasta
+$ eval $(ssh-agent -s) - começar processo.
+git clone = clona repositorio
+
+______
+INICIAR GIT
+INICIAR VERSIONAMENTE
+CRIANDO COMMIT
+Saber como está o arquivo
+
+
+GIT NIT
+GIT ADD
+GIT COMMITD
+GIT Status
